@@ -1,4 +1,4 @@
-package com.adc.spring.ioc;
+package com.adc.spring.ioc.s1;
 
 public interface HelloService {
 
