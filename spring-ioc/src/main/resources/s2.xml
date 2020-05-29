@@ -3,5 +3,5 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="lifeCycle" name="foo;bar" class="com.adc.spring.ioc.s2.BeanLifeCycleTest" init-method="myInit" destroy-method="myDestroy"/>
+    <bean id="lifeCycle" name="foo;bar" class="ioc.BeanLifeCycleTest" init-method="myInit" destroy-method="myDestroy"/>
 </beans>

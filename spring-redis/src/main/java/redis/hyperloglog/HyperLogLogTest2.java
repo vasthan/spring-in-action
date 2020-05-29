@@ -1,4 +1,4 @@
-package com.adc.spring.redis;
+package redis.hyperloglog;
 
 import redis.clients.jedis.Jedis;
 

@@ -1,4 +1,4 @@
-package com.adc.spring.redis;
+package redis.bloomfilter;
 
 import io.lettuce.core.RedisClient;
 import io.lettuce.core.api.StatefulRedisConnection;

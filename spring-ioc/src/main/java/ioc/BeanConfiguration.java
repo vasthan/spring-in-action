@@ -1,4 +1,4 @@
-package com.adc.spring.ioc.s1;
+package ioc;
 
 import org.springframework.context.annotation.Bean;
 

@@ -1,4 +1,4 @@
-package com.adc.spring.redis;
+package redis.zset;
 
 import redis.clients.jedis.Jedis;
 

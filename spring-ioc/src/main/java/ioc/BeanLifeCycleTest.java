@@ -1,4 +1,4 @@
-package com.adc.spring.ioc.s2;
+package ioc;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.*;
